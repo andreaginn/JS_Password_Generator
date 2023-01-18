@@ -8,4 +8,4 @@ Modified starter code to allow webpage to generate randomized password, with use
 
 Site deployed. URL: https://andreaginn.github.io/JS_Password_Generator/
 
-![my image](.Desktop/jspasswordgeneratorscreenshot.jpg)
+![my image](jspasswordgeneratorscreenshot.jpg)
