@@ -1,4 +1,9 @@
 // Assignment code here
+var uppercase = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
+var lowercase = 'abcdefghijklmnopqrstuvwxyz';
+var numbers = '1234567890';
+var symbols = '!@#$%^&*(){}';
+
 
 
 // Get references to the #generate element
