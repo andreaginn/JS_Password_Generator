@@ -38,6 +38,10 @@ function generatePassword() {
       }
     }
   }
+  else (
+    alert("Please make sure your selection is between 8 and 128")
+  )
+  return chosenPassword;
 
 
 
